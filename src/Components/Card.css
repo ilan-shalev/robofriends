@@ -1,0 +1,11 @@
+#card{
+    background: rgb(78, 116, 238);
+    border-style:groove;
+    border-color: black;
+    border-width:3px;
+}
+
+h1{
+    background: linear-gradient(to left, rgb(25, 70, 218) 0%, rgb(112, 60, 60) 100%);
+}
+
